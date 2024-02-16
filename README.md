@@ -1,2 +1,2 @@
-# Create-AWS-VPC-Terraform
+# TerraVPC Automator 
 Create aws vpc using terraform
